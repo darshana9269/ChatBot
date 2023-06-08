@@ -9,3 +9,6 @@ Rule Based Chatbots:
 
 How a ChatBot works ?
 
+![alt text](https://github.com/darshana9269/ChatBot/blob/main/ChatBot.jpeg?raw=true)
+
+
